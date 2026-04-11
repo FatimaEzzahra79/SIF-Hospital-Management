@@ -1,2 +1,2 @@
 # SIF-Hospital-Management
-![Diagramme de Classe SIF](Diagramme SIF.drawio.png)
+![Diagramme de Classe SIF](Diagramme%20SIF.drawio.png)
