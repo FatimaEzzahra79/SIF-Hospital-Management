@@ -1,2 +1,2 @@
 # SIF-Hospital-Management
-![Diagramme de Classe SIF](smiya_dyal_tsswira.png)
+![Diagramme de Classe SIF](Diagramme SIF.png)
