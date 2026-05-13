@@ -17,3 +17,8 @@ Based on the files in this repository:
 ## 💻 How to Run
 1. Clone the repository to your machine.
 2. Open `hospital.html` in any modern web browser.
+
+## 📊 Design & Modeling
+To ensure a solid structure for this project, I designed a UML diagram illustrating the system's logic and entities.
+
+![System Diagram](Diagram_class.png)
